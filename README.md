@@ -1,0 +1,1 @@
+# django-_class_bassed_views
